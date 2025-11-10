@@ -1,0 +1,11 @@
+{
+  "name": "cafe-rubio-bot",
+  "version": "1.0.0", 
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "@google/generative-ai": "^0.2.1"
+  }
+}
